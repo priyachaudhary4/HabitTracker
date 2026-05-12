@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "bq2i1bg5s",
+      "email": "priyachaudhari040@gmail.com",
+      "password": "priya123",
+      "data": {
+        "user": {
+          "firstName": "Priya",
+          "lastName": "Chaudhary",
+          "email": "priyachaudhari040@gmail.com",
+          "avatar": "https://ui-avatars.com/api/?name=Priya+Chaudhary"
+        },
+        "habits": [
+          {
+            "id": "0thzfrudg",
+            "name": "My daily ",
+            "emoji": "🧠",
+            "category": "General",
+            "completions": [
+              "2026-05-11",
+              "2026-05-12"
+            ]
+          },
+          {
+            "id": "87empfm3i",
+            "name": "Coding",
+            "emoji": "🧠",
+            "category": "General",
+            "completions": [
+              "2026-05-04",
+              "2026-05-07",
+              "2026-05-12"
+            ]
+          }
+        ],
+        "journalEntries": {
+          "2026-05-13": {
+            "date": "2026-05-13",
+            "mood": null,
+            "gratitude": "vdghewdyug",
+            "highlights": "kdgdeiygds",
+            "challenges": "nmcbdsjcgdsj",
+            "learning": "dcbhsd",
+            "goals": "sbc sdgc",
+            "notes": "shdbvcusy",
+            "lastUpdated": "2026-05-12T15:12:01.749Z"
+          },
+          "2026-05-11": {
+            "date": "2026-05-11",
+            "mood": null,
+            "gratitude": "",
+            "highlights": "hello",
+            "challenges": "",
+            "learning": "",
+            "goals": "",
+            "notes": "",
+            "lastUpdated": "2026-05-12T15:14:55.600Z"
+          },
+          "2026-05-12": {
+            "date": "2026-05-12",
+            "mood": null,
+            "gratitude": "byee",
+            "highlights": "",
+            "challenges": "",
+            "learning": "",
+            "goals": "",
+            "notes": "",
+            "lastUpdated": "2026-05-12T15:15:03.590Z"
+          }
+        },
+        "notes": [],
+        "settings": {
+          "dailyReminders": true,
+          "weeklyReports": true,
+          "achievementNotifications": true,
+          "startWeekOn": "Monday",
+          "theme": "Light",
+          "timezone": "Auto-detect",
+          "secureSession": false
+        }
+      }
+    }
+  ]
+}
