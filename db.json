@@ -32,6 +32,17 @@
               "2026-05-07",
               "2026-05-12"
             ]
+          },
+          {
+            "id": "xkxxfo91p",
+            "name": "leetcode ",
+            "emoji": "🧠",
+            "category": "General",
+            "completions": [
+              "2026-05-04",
+              "2026-05-07",
+              "2026-05-09"
+            ]
           }
         ],
         "journalEntries": {
@@ -67,6 +78,17 @@
             "goals": "",
             "notes": "",
             "lastUpdated": "2026-05-12T15:15:03.590Z"
+          },
+          "2026-05-15": {
+            "date": "2026-05-15",
+            "mood": null,
+            "gratitude": "",
+            "highlights": "",
+            "challenges": "",
+            "learning": "",
+            "goals": "",
+            "notes": "",
+            "lastUpdated": "2026-05-13T04:14:57.745Z"
           }
         },
         "notes": [],
